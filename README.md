@@ -17,8 +17,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/html-and-css-vanilla-flexbox-AKnsMEwuIL)
-- Live Site URL: [Add live site URL here](https://davidg199.github.io/recipe-page-main/)
+- Solution URL: (https://www.frontendmentor.io/solutions/html-and-css-vanilla-flexbox-AKnsMEwuIL)
+- Live Site URL: (https://davidg199.github.io/recipe-page-main/)
 
 ## My process
 
